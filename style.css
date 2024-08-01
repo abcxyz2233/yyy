@@ -1,7 +1,7 @@
 /* style.css */
 body {
     text-align: center; 
-   background-color: #1a60a5ad;
+   background-color: #04192cd8;
 }
 
 .button-container {
@@ -14,7 +14,7 @@ body {
 
 .copy-button {
     padding: 10px 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #e2bebe;
     border-radius: 5px;
     background-color: #143baf;
     color: white;
